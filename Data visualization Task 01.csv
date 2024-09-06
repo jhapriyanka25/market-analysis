@@ -1,0 +1,129 @@
+patientID,bmi,smoke,mtx,csDMARDS status,TNFi bDMARD,non-TNFi bDMARD,pred,das28,age,sex
+1,34.6,former,yes,0,0,0,no,1.63195,75,male
+2,37.57,former,yes,0,0,0,no,2.77995,76,male
+3,23.7,former,yes,0,1,0,yes,2.58632,70,male
+4,nan,former,yes,0,1,0,yes,1.49195,71,male
+5,nan,never,no,1,0,0,no,1.78595,69,female
+6,24.5,never,no,1,0,0,no,2.03795,69,female
+7,31,former,no,0,0,1,no,3.03363,61,female
+8,31.68,former,no,0,0,1,no,4.0719,62,female
+9,28.1,former,yes,0,0,1,yes,1.70967,64,female
+10,nan,never,yes,0,0,1,no,2.23112,64,female
+11,27.6,former,no,0,0,1,no,3.22503,60,female
+12,30.9,former,no,1,0,1,no,3.78125,60,female
+13,26.4,never,yes,1,1,0,no,2.07995,78,male
+14,nan,never,yes,1,1,0,no,1.60395,79,male
+15,34.3,former,yes,0,0,0,no,2.3646,62,female
+16,nan,former,yes,0,0,0,no,4.17528,63,female
+17,nan,current (within 3 months),yes,0,0,1,no,2.03498,67,male
+18,nan,former,yes,0,0,0,no,2.02237,68,male
+19,32.2,current (within 3 months),yes,2,0,0,yes,1.61795,64,male
+20,31.99,current (within 3 months),yes,2,0,0,yes,1.57595,65,male
+21,nan,never,yes,0,0,0,yes,4.16226,76,female
+22,27.3,never,yes,0,0,0,yes,4.24992,76,female
+23,30.7,current (within 3 months),yes,0,0,0,no,1.56195,66,female
+24,31.1,never,yes,0,0,0,no,1.47795,67,female
+25,24.8,former,yes,0,0,0,yes,4.82866,85,male
+26,nan,former,yes,1,0,0,yes,2.86797,86,male
+27,31.5,never,yes,0,1,0,no,5.25838,35,female
+28,32.7,never,yes,0,0,0,no,3.78535,35,female
+29,28.2,former,no,0,0,0,no,1.98407,73,female
+30,29.07,former,no,0,0,0,no,2.34396,74,female
+31,23.3,former,yes,0,1,0,yes,3.08191,63,female
+32,23.2,former,yes,0,1,0,yes,2.48581,64,female
+33,25.3,current (within 3 months),yes,1,0,0,no,1.51995,67,female
+34,25.23,former,yes,1,0,0,no,1.50595,69,female
+35,30.5,never,yes,0,1,0,no,1.56195,39,female
+36,30.2,never,yes,0,1,0,no,2.31795,39,female
+37,22.6,never,yes,1,0,0,yes,2.51825,76,female
+38,nan,never,yes,1,0,0,yes,2.44603,77,female
+39,34.6,former,yes,1,1,0,no,3.91157,43,male
+40,34.9,former,yes,1,0,0,yes,3.75613,44,male
+41,35.4,former,no,0,1,0,no,3.99752,67,female
+42,35.59,former,no,0,1,0,no,2.30538,68,female
+43,35.5,never,no,0,1,0,yes,3.85795,66,female
+44,36.5,never,no,1,1,0,yes,2.17795,67,female
+45,42.3,nan,no,2,0,0,yes,3.43912,53,female
+46,44.9,former,no,2,0,0,yes,3.01191,54,female
+47,nan,never,yes,0,0,1,no,5.37692,70,female
+48,nan,never,yes,1,0,1,no,5.46738,71,female
+49,45.3,never,yes,0,0,0,no,4.01303,55,female
+50,47.8,never,yes,1,0,0,no,6.09333,56,female
+51,35.9,former,yes,0,0,0,no,3.09699,65,male
+52,35.1,former,yes,0,0,0,yes,3.06232,66,male
+53,29.2,former,yes,0,1,0,no,1.77195,71,male
+54,29,former,yes,0,1,0,no,2.06595,72,male
+55,22.8,former,no,0,1,0,yes,2.04747,62,male
+56,23.51,former,no,0,1,0,yes,2.24335,63,male
+57,36.4,former,yes,0,1,0,yes,2.77789,62,male
+58,37.1,former,yes,0,0,0,yes,5.4535,63,male
+59,41.6,former,yes,0,1,0,no,3.7535,64,female
+60,40.7,former,no,0,1,0,no,3.33789,65,female
+61,26.5,former,no,1,0,1,yes,1.44995,70,female
+62,26.8,former,no,1,0,1,yes,1.47795,70,female
+63,37.6,never,yes,0,1,0,yes,3.03195,61,male
+64,36.2,never,yes,0,1,0,yes,3.37591,62,male
+65,23.75,never,yes,0,0,0,yes,2.3806,67,male
+66,24.2,never,yes,0,0,0,yes,1.60057,68,male
+67,34.9,former,yes,0,1,0,no,2.85895,62,male
+68,37,former,yes,0,1,0,no,3.21367,63,male
+69,29.2,never,no,2,1,0,no,1.84195,40,female
+70,31.1,never,no,2,1,0,no,1.81395,40,female
+71,35.3,former,yes,1,0,0,no,1.56195,61,female
+72,33.01,former,yes,1,0,0,no,1.63195,62,female
+73,32.8,former,no,1,1,0,no,2.35995,65,female
+74,34.9,current (within 3 months),yes,1,0,0,yes,4.66454,65,female
+75,22.4,never,yes,2,0,0,yes,3.75212,75,female
+76,22.9,never,yes,2,0,0,yes,4.08194,76,female
+77,24.7,never,yes,0,0,0,yes,6.273,73,female
+78,24.1,never,yes,0,0,0,no,1.57595,75,female
+79,25.5,never,yes,0,0,0,yes,3.03167,32,female
+80,26.1,never,yes,0,0,0,no,4.29387,33,female
+81,37.5,never,no,1,0,0,no,3.19995,67,female
+82,25.5,never,no,1,0,0,no,1.44995,68,female
+83,33.5,former,yes,0,1,0,no,1.71595,64,female
+84,nan,former,yes,0,1,0,no,1.58995,65,female
+85,28.9,never,yes,0,0,0,yes,4.64151,66,female
+86,nan,never,yes,1,1,0,yes,1.89795,67,female
+87,33.2,former,no,0,0,0,yes,3.9924,72,male
+88,nan,former,no,0,0,0,yes,4.2695,74,male
+89,24.6,never,yes,1,0,0,yes,3.94349,55,female
+90,24.5,never,yes,0,0,0,yes,3.52084,55,female
+91,31.4,former,yes,0,0,0,yes,3.64795,65,female
+92,30.4,former,yes,1,0,0,yes,4.15565,65,female
+93,43.5,never,yes,2,0,0,no,4.05367,58,female
+94,43.88,never,yes,2,0,0,no,5.01995,59,female
+95,22.9,never,yes,0,0,0,yes,3.66593,74,female
+96,22.82,never,yes,0,0,0,yes,2.74193,75,female
+97,34.2,former,yes,0,1,0,yes,3.72972,58,female
+98,33.7,former,yes,0,0,1,no,2.60693,59,female
+99,nan,former,yes,0,0,0,yes,2.33385,80,male
+100,nan,former,yes,0,0,0,yes,1.56195,81,male
+101,27.48,former,yes,0,1,0,no,7.00031,74,male
+102,27.4,former,yes,1,0,0,no,5.71524,74,male
+103,30,former,no,0,0,0,no,1.47795,61,male
+104,31.26,former,yes,0,0,0,no,1.77195,61,male
+105,31.6,never,yes,0,0,0,no,1.95338,61,female
+106,32.84,never,yes,0,0,0,no,2.0925,62,female
+107,27.5,never,yes,1,0,0,no,2.9379,58,female
+108,26.26,never,yes,1,0,0,no,5.88191,59,female
+109,29.2,former,yes,0,0,0,no,5.09591,62,female
+110,nan,former,yes,0,0,0,no,3.76766,63,female
+111,39,current (within 3 months),yes,1,0,0,no,4.96479,62,female
+112,nan,current (within 3 months),no,1,1,0,no,4.96276,63,female
+113,22.6,never,yes,0,1,0,yes,1.50107,42,female
+114,nan,never,yes,1,1,0,no,1.20703,43,female
+115,31,never,yes,0,0,0,no,3.4,51,female
+116,nan,never,yes,0,0,0,yes,4.99423,52,female
+117,27.2,current (within 3 months),yes,0,1,0,no,2.12837,62,female
+118,26.73,current (within 3 months),yes,0,1,0,yes,3.20917,63,female
+119,31.4,former,no,1,0,0,yes,6.15442,52,female
+120,31.06,former,yes,0,1,1,yes,6.60116,52,female
+121,25.3,never,no,0,1,0,no,3.01795,64,female
+122,25.19,never,no,0,1,0,no,3.40995,65,female
+123,nan,former,yes,0,2,0,yes,2.58067,59,female
+124,41.65,former,yes,0,1,0,yes,1.56195,60,female
+125,29.8,former,yes,1,0,0,yes,1.67395,62,male
+126,30.2,former,yes,1,0,0,no,2.45448,62,male
+127,24.3,current (within 3 months),yes,1,0,0,yes,2.94037,52,male
+128,24.4,current (within 3 months),yes,1,1,0,yes,2.1291,52,male
